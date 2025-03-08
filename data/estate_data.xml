@@ -1,0 +1,8 @@
+<odoo>
+    <record id="estate_property_type_house" model="estate.property.type">
+        <field name="name">House</field>
+    </record>
+    <record id="estate_property_type_apartment" model="estate.property.type">
+        <field name="name">Apartment</field>
+    </record>
+</odoo>
